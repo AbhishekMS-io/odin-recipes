@@ -1,3 +1,8 @@
 # odin-recipes
 
-A simple HTML only recipe website.
+A simple HTML-based recipe website.
+
+## Recipes Included
+- Lasagna  
+- Chicken Biryani  
+- Chicken Fried Rice  
